@@ -9,11 +9,11 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/josef99581169#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/josef99581169#gh-dark-mode-only)
+[![Twitter](./img/twitter-light.svg)](https://twitter.com/josef99581169#gh-light-mode-only)
+[![Twitter](./img/twitter-dark.svg)](https://twitter.com/josef99581169#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/youssef-rais-4b8608110#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/youssef-rais-4b8608110#gh-dark-mode-only)
+[![Linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/youssef-rais-4b8608110#gh-light-mode-only)
+[![Linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/youssef-rais-4b8608110#gh-dark-mode-only)
 
 
 ### Languages and Tools:
