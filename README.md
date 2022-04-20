@@ -10,9 +10,7 @@
 ### Connect with me:
 
 [![Twitter]()](https://twitter.com/josef99581169/)
-[![Twitter]()](https://twitter.com/josef99581169/)
 &nbsp;&nbsp;
-[![Linkedin]()](https://linkedin.com/in/youssef-rais-4b8608110/)
 [![Linkedin]()](https://linkedin.com/in/youssef-rais-4b8608110/)
 
 
