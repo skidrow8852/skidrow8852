@@ -9,11 +9,11 @@
 
 ### Connect with me:
 
-[![Twitter]()](https://twitter.com/josef99581169#gh-light-mode-only)
-[![Twitter]()](https://twitter.com/josef99581169#gh-dark-mode-only)
+[![Twitter]()](https://twitter.com/josef99581169/)
+[![Twitter]()](https://twitter.com/josef99581169/)
 &nbsp;&nbsp;
-[![Linkedin]()](https://linkedin.com/in/youssef-rais-4b8608110#gh-light-mode-only)
-[![Linkedin]()](https://linkedin.com/in/youssef-rais-4b8608110#gh-dark-mode-only)
+[![Linkedin]()](https://linkedin.com/in/youssef-rais-4b8608110/)
+[![Linkedin]()](https://linkedin.com/in/youssef-rais-4b8608110/)
 
 
 ### Languages and Tools:
