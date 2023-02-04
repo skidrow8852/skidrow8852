@@ -11,7 +11,7 @@
 
 [![Twitter]()](https://twitter.com/josef99581169/)
 &nbsp;&nbsp;
-[![Linkedin]()](https://linkedin.com/in/youssef-rais-4b8608110/)
+[![Linkedin]()](https://twitter.com/Youssef_Rais_C)
 
 
 ### Languages and Tools:
