@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[![Twitter]()](https://twitter.com/josef99581169/)
+[![Twitter]()](https://twitter.com/Youssef_Rais_C)
 &nbsp;&nbsp;
-[![Linkedin]()](https://twitter.com/Youssef_Rais_C)
+[![Linkedin]()](https://www.linkedin.com/in/youssef-rais-4b8608110/)
 
 
 ### Languages and Tools:
