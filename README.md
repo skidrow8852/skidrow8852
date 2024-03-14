@@ -2,9 +2,8 @@
 
 ## I'm a Blockchain Developer, Software Engineer and Student!!
 
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Learn more about web3
+- 🥅 2024 Goals: Learn more about web3 and AI
 - ⚡ Fun fact: I love to play chess & football
 
 ### Connect with me:
