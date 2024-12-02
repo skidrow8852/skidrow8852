@@ -1,6 +1,6 @@
 # Hi there, I'm Youssef 👋 
 
-## I'm a Blockchain Developer, Software Engineer and Student!!
+## Software Engineer Exploring Blockchain & Fintech Innovations
 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2024 Goals: Learn more about web3 and AI
