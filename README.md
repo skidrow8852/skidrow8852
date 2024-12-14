@@ -11,7 +11,7 @@
 
 ### 🌐 Socials
 <div>
-  <a href="mailto:amine20solo20@gmail.com"><img src="https://img.shields.io/badge/-skidrow8852%40gmail.com-7B83EB?&style=for-the-badge&logo=Gmail&logoColor=white" ></a>  
+  <a href="mailto:amine20solo20@gmail.com"><img src="https://img.shields.io/badge/-skidrow8852-7B83EB?&style=for-the-badge&logo=Gmail&logoColor=white" ></a>  
   <a href="https://www.linkedin.com/in/youssef-rais-4b8608110/"><img src="https://img.shields.io/badge/youssef_rais-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
   <a href="https://twitter.com/Youssef_Rais_C"><img src="https://img.shields.io/badge/Youssef_Rais_C-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white"></a>
 </div>
