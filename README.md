@@ -22,11 +22,9 @@
 <div>
   <p align="center">
     <img height="160" alt="Youssef's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=skidrow8852&theme=dark&show_icons=true&count_private=true&include_all_commits=true" />    
-    <img alt="Youssef's Github Stats" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidrow8852&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+    <img alt="Youssef's Github Stats" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidrow8852&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   </p>  
   <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=skidrow8852&theme=dark&hide_border=false"/>
   </p>
 </div>
-
-<h3><p> <img src="https://komarev.com/ghpvc/?username=skidrow8852&label=Profile%20views&color=6805D3&style=flat" alt="skidrow8852" /> </p></h3>
