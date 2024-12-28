@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=1000&lines=Software+Engineer+Exploring+Blockchain+and+Fintech+Innovations" height="40"/>
 
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2024 Goals: Learn more about web3 and AI
+- 🥅 2025 Goals: Learn more about web3 and AI
 - ⚡ Fun fact: I love to play chess & football
 
 
