@@ -15,16 +15,3 @@
 
 ### 🛠 Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,solidity,go,dart,cpp,cs,java,css,html,nodejs,express,django,spring,react,nextjs,mongodb,mysql,postgresql,redis,aws,jest,docker,postman,git,linux,bash&theme=dark)](https://skillicons.dev)
-
-
-
-### ⚙️ GitHub Stats
-<div>
-  <p align="center">
-    <img height="160" alt="Youssef's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=skidrow8852&theme=dark&show_icons=true&count_private=true&include_all_commits=true" />    
-    <img alt="Youssef's Github Stats" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidrow8852&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  </p>  
-  <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=skidrow8852&theme=dark&hide_border=false"/>
-  </p>
-</div>
