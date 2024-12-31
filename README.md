@@ -14,4 +14,4 @@
 </div>
 
 ### 🛠 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,solidity,go,dart,cpp,cs,java,css,html,nodejs,express,django,spring,react,nextjs,mongodb,mysql,postgresql,redis,aws,jest,docker,postman,git,linux,bash&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,solidity,dart,cpp,cs,java,css,html,nodejs,express,django,spring,react,nextjs,mongodb,mysql,postgresql,redis,aws,jest,docker,postman,git,linux,bash&theme=dark)](https://skillicons.dev)
